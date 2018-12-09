@@ -2,6 +2,9 @@
 """
 import logging
 
+# not DRY with setup.py
+version = __version__ = "0.1.0"
+
 
 def get_logger(name):
     logger = logging.getLogger(name.ljust(6))
