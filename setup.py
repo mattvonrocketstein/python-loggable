@@ -8,7 +8,7 @@ github_requirements = []
 PACKAGE_NAME = 'loggable'
 setup(
     name=PACKAGE_NAME,
-    version='0.1.0',
+    version='0.2.0',
     author="mvr",
     description="logging mixins and tools",
     author_email='no-reply@example.com',
